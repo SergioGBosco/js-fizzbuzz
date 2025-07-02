@@ -12,3 +12,9 @@ Abbiamo visto qualcosa di particolare che possiamo usare?
 Consigli del giorno:
 scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
 proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
+
+Creiamo un Ciclo For che mostri i numeri da 1 a 100
+? se N restituisce 0 come resto dividendoli sia per 3 che per 5 uscirà la scritta FizzBuzz utilizzando l'operatore and "&&"
+? se N Restituisce 0 come resto dividendolo per 3 Fizz
+? se N Restituisce 0 come resto dividendolo per 5 Buzz
+: ALtrimenti restituisci il numero generato
