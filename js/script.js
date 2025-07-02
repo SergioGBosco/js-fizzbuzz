@@ -14,6 +14,9 @@ for (let i = 1; i <= 100; i++) {
   else if (i % 3 === 0) {
     console.log(`Fizz`)
   }
-
+  // Stabilisco che per ogni numero divisibile sia per 5 e restituisce come resto 0 esce la parola Buzz
+  else if (i % 5 === 0) {
+    console.log(`Buzz`)
+  }
 }
 
