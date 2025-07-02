@@ -18,5 +18,11 @@ for (let i = 1; i <= 100; i++) {
   else if (i % 5 === 0) {
     console.log(`Buzz`)
   }
+
+  // il resto dei numeri che non soddisfano i requisiti sopra riportati vengono mostrate cosi come sono
+
+  else {
+    console.log(`${i}`)
+  }
 }
 
